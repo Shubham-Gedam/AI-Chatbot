@@ -35,8 +35,6 @@ function App() {
     
   }
 
-
-
   const handleInputChange = (e) => {
     setInputText(e.target.value)
   }
